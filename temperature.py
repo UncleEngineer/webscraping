@@ -1,4 +1,7 @@
-#temperature.py
+# temperature.py
+# pip install beautifulsoup4
+# pip install songline
+
 from urllib.request import urlopen as req
 from bs4 import BeautifulSoup as soup
 
